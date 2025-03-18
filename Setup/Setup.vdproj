@@ -123,12 +123,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_6A2D98AB7FEC26429F4B147C11AA5D92"
-        "OwnerKey" = "8:_2CC6DBEDD49B423E861A2C2CE11D6CD1"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_6D62983FEDEE66DA611DFB046A6EFC82"
         "OwnerKey" = "8:_2CC6DBEDD49B423E861A2C2CE11D6CD1"
         "MsmSig" = "8:_UNDEFINED"
@@ -614,26 +608,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6A2D98AB7FEC26429F4B147C11AA5D92"
-            {
-            "SourcePath" = "8:api-ms-win-crt-filesystem-l1-1-0.dll"
-            "TargetName" = "8:api-ms-win-crt-filesystem-l1-1-0.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_C9D77BCA0344477D8B9104079C183E1E"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:TRUE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6D62983FEDEE66DA611DFB046A6EFC82"
             {
             "SourcePath" = "8:VERSION.dll"
@@ -990,15 +964,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:IntelliFile"
-        "ProductCode" = "8:{E338AF74-8984-49ED-B5F4-6A5F1AA113A1}"
-        "PackageCode" = "8:{A98DC1AC-47F1-494F-9049-7D85489E0CAD}"
+        "ProductCode" = "8:{4FC4CC87-EF0B-43B3-939E-725553566F0F}"
+        "PackageCode" = "8:{7EC88866-EA16-4069-A662-C76D789EFECD}"
         "UpgradeCode" = "8:{C73D3F5F-8D57-4947-AD1B-57B770138A7D}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:1.36"
+        "ProductVersion" = "8:1.38"
         "Manufacturer" = "8:Stefan-Mihai MOGA"
         "ARPHELPTELEPHONE" = "8:+40745497982"
         "ARPHELPLINK" = "8:https://www.moga.doctor/"
